@@ -31,17 +31,17 @@ module.exports = [
     },
     {
         category: "ARMOR",
-        name: "D",
+        name: "G",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVgCb23ZEWDeZEf0zaxukeUdoxr9ok-2-IFA&usqp=CAU"
     },
     {
         category: "ARMOR",
-        name: "E",
+        name: "K",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O-s_dT6liYdSBDzkRWYMvgQrpZtTxaq6cQ&usqp=CAU"
     },
     {
         category: "ARMOR",
-        name: "G",
+        name: "W",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORc5Nkcvq3EAT5lrs9VV16ugpx-1nj0ZzKQ&usqp=CAU"
     },
 ]
