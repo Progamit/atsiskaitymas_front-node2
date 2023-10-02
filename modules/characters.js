@@ -4,43 +4,43 @@ const { randomUUID } = new ShortUniqueId({ length: 10 });
 module.exports = [
     {
         id: randomUUID(),
-        image: "https://i.ibb.co/gzDJQPQ/Character1-face1.png",
-        bigImage: "https://i.ibb.co/c2yT8Y4/Character1-face1.png"
+        image: "https://media.istockphoto.com/id/1167562360/photo/senior-knight-wearing-traditional-clothes-with-sword.webp?b=1&s=170667a&w=0&k=20&c=PEEFIpzO7Vf24J8JnNddoq76zvozpbxwCyR0CkTHELg=",
+        bigImage: "https://media.istockphoto.com/id/1167562360/photo/senior-knight-wearing-traditional-clothes-with-sword.webp?b=1&s=170667a&w=0&k=20&c=PEEFIpzO7Vf24J8JnNddoq76zvozpbxwCyR0CkTHELg="
     },
     {
         id: randomUUID(),
-        image: "https://i.ibb.co/0sjXMBc/Character2-face1.png",
-        bigImage: "https://i.ibb.co/80VcQk5/Character2-face1.png"
+        image: "https://media.istockphoto.com/id/1262273987/photo/portrait-of-a-warrior-king.jpg?s=612x612&w=0&k=20&c=D2V3U6nPzykGnz-g1Dk-hzDueign0TaUXL8VOZLQAj0=",
+        bigImage: "https://media.istockphoto.com/id/1262273987/photo/portrait-of-a-warrior-king.jpg?s=612x612&w=0&k=20&c=D2V3U6nPzykGnz-g1Dk-hzDueign0TaUXL8VOZLQAj0="
     },
     {
         id: randomUUID(),
-        image: "https://i.ibb.co/16vzdDB/Character3-face1.png",
-        bigImage: "https://i.ibb.co/D9k56LH/Character3-face1.png"
+        image: "https://media.istockphoto.com/id/1287805436/photo/portrait-of-a-snow-viking-warrior-king-in-the-mountains.jpg?s=612x612&w=0&k=20&c=F72Ggm0Fmxa7H50CbM8tyFe-Qj3w9pGDmasC-hrDCzU=",
+        bigImage: "https://media.istockphoto.com/id/1287805436/photo/portrait-of-a-snow-viking-warrior-king-in-the-mountains.jpg?s=612x612&w=0&k=20&c=F72Ggm0Fmxa7H50CbM8tyFe-Qj3w9pGDmasC-hrDCzU="
     },
     {
         id: randomUUID(),
-        image: "https://i.ibb.co/8cs3NP3/Character4-face1.png",
-        bigImage: "https://i.ibb.co/0KWV6y8/Character4-face1.png"
+        image: "https://media.istockphoto.com/id/1207246618/photo/portrait-of-a-viking-warrior.jpg?s=612x612&w=0&k=20&c=BBXWrTf7i_GBLuiX9prNXUJ8CuosvKMj9nt5nEa4GkA=",
+        bigImage: "hhttps://media.istockphoto.com/id/1207246618/photo/portrait-of-a-viking-warrior.jpg?s=612x612&w=0&k=20&c=BBXWrTf7i_GBLuiX9prNXUJ8CuosvKMj9nt5nEa4GkA="
     },
     {
         id: randomUUID(),
-        image: "https://i.ibb.co/CbbzRJF/Character5-face1.png",
-        bigImage: "https://i.ibb.co/2tFVmhg/Character5-face1.png"
+        image: "https://media.istockphoto.com/id/966517020/photo/weapon-wielding-bloody-medieval-warrior-alone-on-a-cold-seashore.jpg?s=612x612&w=0&k=20&c=WNKdRGdpD6z_90tVgEq-nMsNtb1qZg7cV5MkPmiXwIo=",
+        bigImage: "https://media.istockphoto.com/id/966517020/photo/weapon-wielding-bloody-medieval-warrior-alone-on-a-cold-seashore.jpg?s=612x612&w=0&k=20&c=WNKdRGdpD6z_90tVgEq-nMsNtb1qZg7cV5MkPmiXwIo="
     },
     {
         id: randomUUID(),
-        image: "https://cdna.artstation.com/p/assets/images/images/064/631/164/large/elena-danilova-codm-character-darksheperd.jpg?1688399978",
-        bigImage: "https://cdna.artstation.com/p/assets/images/images/064/631/164/large/elena-danilova-codm-character-darksheperd.jpg?1688399978"
+        image: "https://media.istockphoto.com/id/1198008447/photo/beautiful-viking-woman.jpg?s=612x612&w=0&k=20&c=FBJvgYvP_QRvSVg43tgEIO-FnweZDFehpcD65Z3YJHM=",
+        bigImage: "https://media.istockphoto.com/id/1198008447/photo/beautiful-viking-woman.jpg?s=612x612&w=0&k=20&c=FBJvgYvP_QRvSVg43tgEIO-FnweZDFehpcD65Z3YJHM="
     },
     {
         id: randomUUID(),
-        image: "https://cdna.artstation.com/p/assets/images/images/064/579/538/large/emre-ekmekci-emre-ekmekci-bosun.jpg?1688265468",
-        bigImage: "https://cdna.artstation.com/p/assets/images/images/064/579/538/large/emre-ekmekci-emre-ekmekci-bosun.jpg?1688265468"
+        image:"https://media.istockphoto.com/id/1463834917/photo/beautiful-blonde-warrior-woman.jpg?s=612x612&w=0&k=20&c=PFWZ8pl1DCM8mCQjKQmRgHbrdQ0aWMsO7hcwydPkSFs=",
+        bigImage: "https://media.istockphoto.com/id/1463834917/photo/beautiful-blonde-warrior-woman.jpg?s=612x612&w=0&k=20&c=PFWZ8pl1DCM8mCQjKQmRgHbrdQ0aWMsO7hcwydPkSFs="
     },
     {
         id: randomUUID(),
-        image: "https://cdna.artstation.com/p/assets/images/images/064/255/430/large/james-greenwood-xeno-beast-render-copy.jpg?1687466733",
-        bigImage: "https://cdna.artstation.com/p/assets/images/images/064/255/430/large/james-greenwood-xeno-beast-render-copy.jpg?1687466733g"
+        image: "https://media.istockphoto.com/id/1399256527/photo/portrait-of-beautiful-blonde-fantasy-viking-woman.jpg?s=612x612&w=0&k=20&c=CnXJ8pvaYMF-DufB7ib5i2enZz9F-NTW92t3wmLsbno=3",
+        bigImage: "https://media.istockphoto.com/id/1399256527/photo/portrait-of-beautiful-blonde-fantasy-viking-woman.jpg?s=612x612&w=0&k=20&c=CnXJ8pvaYMF-DufB7ib5i2enZz9F-NTW92t3wmLsbno="
     },
 ]
 
