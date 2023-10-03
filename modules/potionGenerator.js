@@ -1,7 +1,7 @@
 const potion = {
     category: "POTIONS",
     name: "Healing Salve",
-    image: "https://i.ibb.co/Vp3BqYR/potions-4.png"
+    image: "https://media.istockphoto.com/id/683722110/photo/artificial-flowers-inside-vase.jpg?s=612x612&w=0&k=20&c=T9ypTzSToa5NSDJWH3eQqfmPOonrIjEh4LgQLY2DD24="
 }
 
 const randomNumber = (max) => {
