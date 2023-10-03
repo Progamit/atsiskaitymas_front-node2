@@ -39,7 +39,7 @@ module.exports = [
     },
     {
         id: randomUUID(),
-        image: "https://media.istockphoto.com/id/1399256527/photo/portrait-of-beautiful-blonde-fantasy-viking-woman.jpg?s=612x612&w=0&k=20&c=CnXJ8pvaYMF-DufB7ib5i2enZz9F-NTW92t3wmLsbno=3",
+        image: "https://media.istockphoto.com/id/1399256527/photo/portrait-of-beautiful-blonde-fantasy-viking-woman.jpg?s=612x612&w=0&k=20&c=CnXJ8pvaYMF-DufB7ib5i2enZz9F-NTW92t3wmLsbno=",
         bigImage: "https://media.istockphoto.com/id/1399256527/photo/portrait-of-beautiful-blonde-fantasy-viking-woman.jpg?s=612x612&w=0&k=20&c=CnXJ8pvaYMF-DufB7ib5i2enZz9F-NTW92t3wmLsbno="
     },
 ]
