@@ -1,8 +1,8 @@
 module.exports = [
     {
         category: "WEAPON",
-        name: "SLL",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkj9sbzZvI72miNz4kzQhpxjFkr27MYe8Keg&usqp=CAU"
+        name: "SS",
+        image: "https://media.istockphoto.com/id/601924068/photo/two-blade-battle-axe-isolated.jpg?s=612x612&w=0&k=20&c=YGB2Czu_mrOKEehHBKkQLaSDkj6u_H_nxBWGAi8LAgM="
     },
     {
         category: "WEAPON",
