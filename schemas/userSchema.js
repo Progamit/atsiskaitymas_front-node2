@@ -29,8 +29,8 @@ const userSchema = new Schema({
         required: false,
         default: [{
             category: "WEAPON",
-            name: "Silverthorn",
-            image: "https://i.ibb.co/hm7WbkK/daggers-1.png",
+            name: "SS",
+            image: "https://media.istockphoto.com/id/601924068/photo/two-blade-battle-axe-isolated.jpg?s=612x612&w=0&k=20&c=YGB2Czu_mrOKEehHBKkQLaSDkj6u_H_nxBWGAi8LAgM=",
             minDamage: 1,
             maxDamage: 5,
             grade: "D",
